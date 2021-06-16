@@ -10,6 +10,6 @@ To make it more efficient, consolidating CSS selectors and properties, organizin
 
 
 Deployed URl: https://jb150524.github.io/HoriseonSite/
-Github Repo URL : 
+Github Repo URL : https://github.com/jb150524/HoriseonSite.git
 
 ![HoriseonWeb](https://user-images.githubusercontent.com/84401029/121281213-916e0e00-c8a5-11eb-8941-8619806e196a.png)
